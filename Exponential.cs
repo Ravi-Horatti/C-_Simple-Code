@@ -23,7 +23,7 @@ namespace giraffe
          	{
          		result= result*basen;
          	}
-
+//returning resut to calling method.
          	return result;
          }
 

@@ -15,7 +15,7 @@ namespace giraffe
             string age = Console.ReadLine();
             Console.WriteLine("Hello "+name+" You'r "+age+" thats great at this Time.");
 
-            // //Numbers
+            // //Numbers (How Numbers Work)
             // Console.WriteLine(Math.Pow(2,204));
 
             // Console.WriteLine(Math.Round(4.4564747));
